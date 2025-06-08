@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Hexo generated files
+public/
+.deploy*/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Hexo backup files
+db.json
+
+# VS Code settings (可选)
+.vscode/
